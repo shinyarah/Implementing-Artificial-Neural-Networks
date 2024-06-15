@@ -6,6 +6,7 @@ You can download the dataset used in this project from [here](https://www.kaggle
 The bank uses these independent variables in the data above and analyzes the behaviour of customers to see whether they leave the bank or stay. Now the bank has to create a predictive model based on this dataset in order to predict the behavior of new customers. This predictive model has to predict for any new customer whether he or she will stay in the bank or leave the bank so that the bank can offer something special to the customer whom the predictive model predicts
 
 ## Solution
+```python
 
 [ ]
 #Import necessary libraries
@@ -354,5 +355,7 @@ print (cm)
 [ ]
 accuracy_score(y_test, y_pred)
 0.842
+
+
 
 ## Conclusion
