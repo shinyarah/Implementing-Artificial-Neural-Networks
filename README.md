@@ -3,7 +3,7 @@
 You can download the dataset used in this project from [here](https://www.kaggle.com/datasets/shivan118/churn-modeling-dataset?resource=download)
 
 ## Problem Statement
-The bank uses these independent variables in the data above and analyzes the behaviour of customers to see whether they leave the bank or stay. Now the bank has to create a predictive model based on this dataset in order to predict the behavior of new customers. This predictive model has to predict for any new customer whether he or she will stay in the bank or leave the bank so that the bank can offer something special to the customer whom the predictive model predicts
+The bank uses the independent variables in the dataset above to analyze customer behavior and determine whether customers will leave or stay. The bank needs to create a predictive model based on this dataset to forecast the behavior of new customers. This model should predict whether any new customer will stay with the bank or leave, allowing the bank to offer special incentives to those predicted to leave.
 
 ## Solution
 ```python
