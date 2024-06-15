@@ -356,6 +356,5 @@ print (cm)
 accuracy_score(y_test, y_pred)
 0.842
 
-
-
+```markdown
 ## Conclusion
