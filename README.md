@@ -357,3 +357,5 @@ accuracy_score(y_test, y_pred)
 0.842
 ```
 ## Conclusion
+### Loss and Accuracy: 
+During training, the loss decreases and accuracy increases, indicating that the model is learning from the data. The final accuracy achieved is around 83-84%, suggesting that the model is reasonably good at predicting customer churn.
